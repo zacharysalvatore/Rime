@@ -1,1 +1,6 @@
 .DS_Store
+build/
+installation.yaml
+luna_pinyin.userdb/
+user.yaml
+trash/
